@@ -1,6 +1,10 @@
 # Simulando-um-Ataque-de-Brute-Force-de-Senhas-com-Medusa-e-Kali-Linux Projeto desenvolvido como parte do desafio prático da DIO
 
-Projeto desenvolvido como parte do desafio prático da DIO — Digital Innovation One.
+## Sobre o projeto
+
+Projeto desenvolvido como parte de um desafio prático da DIO (Digital Innovation One), com o objetivo de aplicar os conhecimentos adquiridos durante os estudos.
+
+O projeto foi desenvolvido com fins educacionais, seguindo as orientações do desafio e realizando adaptações conforme meu aprendizado.
 
 Implementar, documentar e compartilhar um projeto prático utilizando Kali Linux e a ferramenta Medusa, em conjunto com ambientes vulneráveis (por exemplo, Metasploitable 2 e DVWA), para simular cenários de ataque de força bruta e exercitar medidas de prevenção.
 
