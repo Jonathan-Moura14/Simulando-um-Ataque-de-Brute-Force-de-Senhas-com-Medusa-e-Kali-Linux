@@ -1,4 +1,4 @@
-# Simulando-um-Ataque-de-Brute-Force-de-Senhas-com-Medusa-e-Kali-Linux
+# Simulando-um-Ataque-de-Brute-Force-de-Senhas-com-Medusa-e-Kali-Linux Projeto desenvolvido como parte do desafio prático da DIO
 
 Projeto desenvolvido como parte do desafio prático da DIO — Digital Innovation One.
 
